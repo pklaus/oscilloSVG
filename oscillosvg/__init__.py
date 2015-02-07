@@ -57,6 +57,6 @@ class oscilloSVG(object):
         if channel2:
             raise NotImplemented('channel 2 not yet implemented')
 
-    def get_svg(self)
+    def get_svg(self):
         return self.dwg.tostring()
 
