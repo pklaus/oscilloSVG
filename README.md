@@ -1,3 +1,2 @@
-This Python package can generate SVG images
-diplaying oscilloscope screens.
+This Python package can generate SVG images displaying oscilloscope screens.
 
